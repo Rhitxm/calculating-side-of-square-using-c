@@ -1,1 +1,1 @@
-# calculating-side-of-square-using-c
+# calculating-area-of-square-using-c
